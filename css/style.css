@@ -1,0 +1,18 @@
+.play {
+  text-align: center;
+}
+.play::before {
+  content: url('../images/play.png');
+}
+
+.pause {
+  text-align: center;
+}
+.pause::before {
+  content: url('../images/pause.png');
+}
+
+/* CREDIT FOR IMAGES/ICONS USED
+<!-- Icons made by <a href="https://www.flaticon.com/authors/bqlqn" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
+<!-- Icons made by <a href="https://www.flaticon.com/authors/bqlqn" title="bqlqn">bqlqn</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
+BEFORE USE CITATION: https://stackoverflow.com/questions/45524714/using-before-and-after-pseudo-elements-with-images  */
